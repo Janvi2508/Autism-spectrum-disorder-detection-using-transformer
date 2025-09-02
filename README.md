@@ -1,5 +1,7 @@
 # Autism-spectrum-disorder-detection-using-transformer
-# Dataset Preparation: Since no direct image-based ASD dataset was available, extracted relevant features from Kaggle autism datasets (CSV files). Converted numerical data into bar graph visualizations to create an image-based dataset suitable for computer vision models.
+
+# Dataset Preparation: 
+Since no direct image-based ASD dataset was available, extracted relevant features from Kaggle autism datasets (CSV files). Converted numerical data into bar graph visualizations to create an image-based dataset suitable for computer vision models.
 https://www.kaggle.com/code/desalegngeb/autism-spectrum-disorder-prediction
 # Model Implementation: Applied a Vision Transformer (ViT-B16) for classification of generated ASD images on the created dataset.
 
